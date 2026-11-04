@@ -4,4 +4,4 @@ Test repository for the [dsh-superagent](https://github.com/deepseek-ai/dsh-supe
 
 ## Test target
 
-This line is deliberately misspeled so the agent has a small copy fix to make.
+This line is deliberately misspelled so the agent has a small copy fix to make.
